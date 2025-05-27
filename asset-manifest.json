@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeCrackr/static/css/main.cc594c54.css",
+    "main.js": "/CodeCrackr/static/js/main.d9abdcda.js",
+    "index.html": "/CodeCrackr/index.html",
+    "main.cc594c54.css.map": "/CodeCrackr/static/css/main.cc594c54.css.map",
+    "main.d9abdcda.js.map": "/CodeCrackr/static/js/main.d9abdcda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc594c54.css",
+    "static/js/main.d9abdcda.js"
+  ]
+}
