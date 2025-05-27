@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CodeCrackr/static/css/main.cc594c54.css",
-    "main.js": "/CodeCrackr/static/js/main.d9abdcda.js",
+    "main.js": "/CodeCrackr/static/js/main.ae16f087.js",
     "index.html": "/CodeCrackr/index.html",
     "main.cc594c54.css.map": "/CodeCrackr/static/css/main.cc594c54.css.map",
-    "main.d9abdcda.js.map": "/CodeCrackr/static/js/main.d9abdcda.js.map"
+    "main.ae16f087.js.map": "/CodeCrackr/static/js/main.ae16f087.js.map"
   },
   "entrypoints": [
     "static/css/main.cc594c54.css",
-    "static/js/main.d9abdcda.js"
+    "static/js/main.ae16f087.js"
   ]
 }
